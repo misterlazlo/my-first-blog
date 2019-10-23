@@ -1,0 +1,7 @@
+h1 a, h2 a {
+    color: 00c26a;
+    font-family: 'Fascinate Inline';
+}
+body {
+    padding-left: 15px;
+}
